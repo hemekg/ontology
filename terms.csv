@@ -5,7 +5,6 @@ HM00003,pathology,O,endothelial lesions,pmid:29956069,Damage to the endothelium 
 HM00004,cellular component,A,schistocytes,pmid:29956069,"During DIC, fibrin strands within the fibrin mesh formed could cut red blood cells, resulting in the formation of schistocytes"
 HM00005,?,A,schistocytosis,pmid:29956069,Infusions of thrombin induce DIC accompanied with hemolysis and schistocytosis.
 HM00006,?,A,fibrin deposition,pmid:29956069,"Fibrin deposition in the blood vessels as a result of DIC might contribute to red blood cell fragmentation and, in turn, hemolysis "
-HM00007,clinical measurement,A,hemolysate,pmid:29956069,The product resulting from the lysis of red blood cells
 HM00008,pathology,O,Impaired microcirculation,pmid:29956069,"Usually present as decreased microvascular blood flow, damage to endothelial cells and high vascular permeability."
 HM00009,pathology,O,renal stasis,pmid:29956069, Renal stasis causes hemolysis 
 HM00010,pathology,O,microvascular stasis,pmid:29956069,Hemopexin prevents from hepatic microvascular stasis
