@@ -1,24 +1,24 @@
 Identifier,Class Name,BEL Encoding,Name,Reference,Description
-HM00001,?,A,storage lesion,pmid:29956069,The so-called storage lesion was described to be associated with immune-modulation
+HM00001,?,A,Storage lesion,pmid:29956069,The so-called storage lesion was described to be associated with immune-modulation
 HM00002,anatomy,A,Rh incompatibility,pmid:29956069,"Extravascular hemolysis, however, results from Rh incompatibility of red blood cells"
-HM00003,antibody,A,endothelial lesions,pmid:29956069,Damage to the endothelium (endothelial lesions) might be the primary cause of hemolysis
-HM00004,aptamer,A,schistocytes,pmid:29956069,"During DIC, fibrin strands within the fibrin mesh formed could cut red blood cells, resulting in the formation of schistocytes"
-HM00005,biological process,B,schistocytosis,pmid:29956069,Infusions of thrombin induce DIC accompanied with hemolysis and schistocytosis.
-HM00006,cellular component,A,fibrin deposition,pmid:29956069,"Fibrin deposition in the blood vessels as a result of DIC might contribute to red blood cell fragmentation and, in turn, hemolysis "
+HM00003,antibody,A,Endothelial lesions,pmid:29956069,Damage to the endothelium (endothelial lesions) might be the primary cause of hemolysis
+HM00004,aptamer,A,Schistocytes,pmid:29956069,"During DIC, fibrin strands within the fibrin mesh formed could cut red blood cells, resulting in the formation of schistocytes"
+HM00005,biological process,B,Schistocytosis,pmid:29956069,Infusions of thrombin induce DIC accompanied with hemolysis and schistocytosis.
+HM00006,cellular component,A,Fibrin deposition,pmid:29956069,"Fibrin deposition in the blood vessels as a result of DIC might contribute to red blood cell fragmentation and, in turn, hemolysis "
 HM00007,chemical,A,Hemolysate,pmid:29956069,The product resulting from the lysis of red blood cells
 HM00008,chemical (proprietary),A,Impaired microcirculation,pmid:29956069,"Usually present as decreased microvascular blood flow, damage to endothelial cells and high vascular permeability."
-HM00009,chemical class,A,renal stasis,pmid:29956069, Renal stasis causes hemolysis 
-HM00010,chemical mixture,A,microvascular stasis,pmid:29956069,Hemopexin prevents from hepatic microvascular stasis
-HM00011,chemical role,A,cytolysin,pmid:29956069,Some pathogens are capable of causing hemolysis by cytolytic toxins
+HM00009,chemical class,A,Renal stasis,pmid:29956069, Renal stasis causes hemolysis 
+HM00010,chemical mixture,A,Microvascular stasis,pmid:29956069,Hemopexin prevents from hepatic microvascular stasis
+HM00011,chemical role,A,Cytolysin,pmid:29956069,Some pathogens are capable of causing hemolysis by cytolytic toxins
 HM00012,clinical measurement,A,ABO antibodies,pmid:29956069,Most hemolytic transfusion reactions can be attributed to ABO antibodies
-HM00013,domain,P,heme-hemopexin complex,pmid:25307023,Haemopexin transports haem away from the vessel wall to LRP1 on macrophages
+HM00013,domain,P,Heme-hemopexin complex,pmid:25307023,Haemopexin transports haem away from the vessel wall to LRP1 on macrophages
 HM00014,enzyme class,P,ABO-incompatible erythrocytes,pmid:25307023,Incompatibility of transfused RBCs
-HM00015,epitope,P,stored erythrocytes,pmid:25307023,Red blood cells that have been separated for blood transfusion
-HM00016,exposure,O,fibrin monomer cross-linking,pmid:25307023,Factor XIII stabilizes clots by catalysing fibrin monomer cross-linking
-HM00017,genetic variant,G,vaso-occlusive crisis,pmid:24904419,Common painful complication of sickle cell anemia in adolescents and adults
+HM00015,epitope,P,Stored erythrocytes,pmid:25307023,Red blood cells that have been separated for blood transfusion
+HM00016,exposure,O,Fibrin monomer cross-linking,pmid:25307023,Factor XIII stabilizes clots by catalysing fibrin monomer cross-linking
+HM00017,genetic variant,G,Vaso-occlusive crisis,pmid:24904419,Common painful complication of sickle cell anemia in adolescents and adults
 HM00018,isoform,PR,Platelet margination,pmid:28458720,"RBCs preferentially move down the center of blood vessel, causing margination of platelets"
-HM00019,molecular function,Y,macrophage M1 polarization,pmid:26675351,NAC was able to prevent iron-induced M1 polarization
-HM00020,motif,P,shear stress,pmid:28458720,When RBCs are damaged by high shear in continuous flow ventricular assist devices
+HM00019,molecular function,Y,Macrophage M1 polarization,pmid:26675351,NAC was able to prevent iron-induced M1 polarization
+HM00020,motif,P,Shear stress,pmid:28458720,When RBCs are damaged by high shear in continuous flow ventricular assist devices
 HM00021,pathology,O,erythrocyte-platelet adhesion,pmid:28458720,The RBC-platelet adhesive interaction may be important in pathological conditions associated with a high incidence of thrombosis
 HM00022,pathway,B,erythrocyte-endothelium adhesion,pmid:28458720,RBCs do not interact with endothelium but they become highly sticky under certain pathological conditions
 HM00023,peptide,AP,permeability of fibrin,pmid:28458720,RBCs increases the lytic resistance and decreases the permeability of fibrin
