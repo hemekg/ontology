@@ -39,7 +39,7 @@ HM00037,abundance,Pathogen Associated Molecular Pattern,pmid:29956069,PAMPs (pat
 HM00038,pathology,Thrombus,pmid:29929138,One mechanism that may contribute to enhanced platelet thrombus formation is inhibition of the metalloprotease
 HM00039,cellular component,"Erythrocytes, lysed",pmid:29929138,"In addition, lysed erythrocytes release arginase"
 HM00040,pathology,Atheromatous lesions,pmid:20378845,Oxysterols and oxidation products of polyunsaturated fatty acids (PUFAs) are present in human atheromatous lesions
-HM00041,abudancen,Atheroma lipid,pmid:20378845,Heme treatment of the atheroma and its extracted lipid increased the amount of conjugated dienes
+HM00041,abundance,Atheroma lipid,pmid:20378845,Heme treatment of the atheroma and its extracted lipid increased the amount of conjugated dienes
 HM00042,protein,ferrihemoglobin,pmid:20378845,Both ferro- and ferrihemoglobin induced the oxidative modification of atheromatous lesion lipids
 HM00043,biological process,oxidative modification of atheroma lipid,pmid:20378845,Both ferro- and ferrihemoglobin induced the oxidative modification of atheromatous lesion lipids
 HM00044,biological process,erythrophagocytosis,pmid:27125525,Evidence suggest that CD163 acts as a hemoglobin scavenger receptor in microglia/macrophage with a role in erythrophagocytosis.
