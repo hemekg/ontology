@@ -21,10 +21,10 @@ HM00019,biological process,shear stress,pmid:28458720,When RBCs are damaged by h
 HM00020,biological process,erythrocyte-platelet adhesion,pmid:28458720,The RBC-platelet adhesive interaction may be important in pathological conditions associated with a high incidence of thrombosis
 HM00021,biological process,erythrocyte-endothelium adhesion,pmid:28458720,RBCs do not interact with endothelium but they become highly sticky under certain pathological conditions
 HM00022,biological process,permeability of fibrin,pmid:28458720,RBCs increases the lytic resistance and decreases the permeability of fibrin
-HM00023,chemical,Labile iron,pmid:30281034,"Transferrin (Tf) saturation and, finally, accumulation of labile plasma iron (LPI)"
+HM00023,?,Labile iron,pmid:30281034,"Transferrin (Tf) saturation and, finally, accumulation of labile plasma iron (LPI)"
 HM00024,biological process,"Blood Transfusion, Acute",pmid:30281034,"Following acute transfusion, the most common occurs during the processes of extravascular hemolysis"
 HM00025,biological process,"Blood Transfusion, Chronic",pmid:30281034,"Conversely, chronic transfusions associated with b-thalassemia major and sickle cell disease"
-HM00026,chemical role,oxidative reactions,pmid:30281034,Hpx-hemin complex prevents oxidative reactions
+HM00026,abundance,oxidative reactions,pmid:30281034,Hpx-hemin complex prevents oxidative reactions
 HM00027,pathology,Heme cytotoxicity,pmid:24904418,FtH protects different cell types from the cytotoxic effects  of heme
 HM00028,biological process,heme-iron recycling,pmid:30248094,"Reticuloendothelial system (RES, spleen and liver) contribute to RBC clearance and subsequently promote heme-iron recycling through erythrophagocytosis"
 HM00029,biological process,nitric oxide consumption,pmid:28314763,Plasma NO consumption was measured ex vivo as a surrogate for the NO-scavenging capacity of the plasma
@@ -48,5 +48,5 @@ HM00046,pathology,ruptured complicated lesions,pmid:20378845,"Concentrations of 
 HM00047,pathology,Oxidative damage,pmid:30505280,"A1M is a plasma and tissue protein with the capacity to bind free radicals and heme groups, and the capacity to repair oxidative damage by chemical reduction."
 HM00048,pathology,Immunothrombosis,pmid:29544683,Abnormal aggregation of erythrocytes under septic conditions may also contribute to immunothrombosis in sepsis.
 HM00049,biological process,cytoskeletal reorganization,pmid:26974230,"HbFe4+ (20 mM), but not HbFe3+  or HbFe2+, induced cytoskeletal reorganization"
-HM00050,chemical role,nitrite oxidation,pmid:26202471,Faster rates for nitrite oxidation in the lag phase were positively associated with higher concentrations of extracellular  free heme at d7 and d35.
+HM00050,abundance,nitrite oxidation,pmid:26202471,Faster rates for nitrite oxidation in the lag phase were positively associated with higher concentrations of extracellular  free heme at d7 and d35.
 HM00051,biological process,Calcium Homeostasis,pmid:28400318,"Mechanistically, heme-derived ROS may directly modify Ca2+ handling proteins (such as the RyR2 or SERCA2a), and may also activate intracellular stress kinases, such as CaMKII, which in turn phosphorylate the same Ca2+ effectors and ultimately exacerbate Ca2+ mishandling."
